@@ -1,0 +1,10 @@
+{
+  "name": "RaithuSahay",
+  "description": "Smart Crop Care and Direct Market Access for Small and Marginal Farmers - Disease Detection, Treatment Guides, Mandi Prices, Buyers/FPOs, Cold Storage, Logistics, and Offline Sync.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
